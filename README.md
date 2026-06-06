@@ -60,3 +60,9 @@ A collection of **25+ LeetCode** problem solutions implemented in **Java**, cove
 git clone https://github.com/kkaranalbant/LeetCode.git
 ```
 Open in your preferred Java IDE and navigate to any solution folder.
+
+## Testing
+This project uses Maven and JUnit 5 for unit tests. To run all tests, ensure you have Maven installed and execute:
+```bash
+mvn test
+```
